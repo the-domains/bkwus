@@ -1,0 +1,14 @@
+layout_spectrum: 0.15191992092877626
+typography_spectrum: 0.13685783906839788
+color:
+  brandStrength: 0.5569026893936098
+  lightness: 0.945095497649163
+  saturation: 0.01084472006186843
+  rhythmicContrast: 0.5923518284689635
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: bkw.us
